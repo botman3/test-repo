@@ -1,0 +1,1 @@
+Add a function called greet(name) to a new file called greet.sh that prints 'Hello, <name>\! Welcome to OpenClaw.' Make it executable. Add a simple test that runs greet.sh with 'World' and checks the output.
